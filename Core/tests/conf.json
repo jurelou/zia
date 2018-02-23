@@ -1,0 +1,9 @@
+{
+  "Core" : {
+      "threads" : 4,
+      "project" : "Zia",
+    "Array" : [
+      { "testarray" : "itworks" }
+    ]
+  }
+}

@@ -1,0 +1,6 @@
+<map id="zia::api::HttpDuplex" name="zia::api::HttpDuplex">
+<area shape="rect" id="node2" href="$structzia_1_1api_1_1_http_request.html" title="{zia::api::HttpRequest\n||}" alt="" coords="135,300,279,377"/>
+<area shape="rect" id="node14" href="$structzia_1_1api_1_1_http_response.html" title="{zia::api::HttpResponse\n||}" alt="" coords="481,300,635,377"/>
+<area shape="rect" id="node12" href="$structzia_1_1api_1_1_net_ip.html" title="{zia::api::NetIp\n||}" alt="" coords="1101,153,1204,230"/>
+<area shape="rect" id="node8" href="$structzia_1_1api_1_1_net_info.html" title="{zia::api::NetInfo\n||}" alt="" coords="902,300,1014,377"/>
+</map>
